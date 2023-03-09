@@ -5,6 +5,6 @@ export function GoalList({name}) {
   
   return (<div>
     <h1>this is Goal list page name is  {fname}</h1>
-    <button onClick={() => setFname("jay shree  ram")}>click</button>
+    <button onClick={() => setFname("change name by click")}>click</button>
   </div>);
 }
