@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <GoalList name={"Avscdasfsadf"} />
+      <GoalList name={"name"} />
     </div>
   );
   
